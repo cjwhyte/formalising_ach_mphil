@@ -2,13 +2,15 @@
 
 This repository contains all of the code necessary to reproduce the simulations reported in the thesis: "Formalising the Adaptive Coding Hypothesis: A Plastic Attractor Explains Neuroimaging Task Codes and Their Perturbation by TMS".
 
-To reproduce the results reported in simulations 1 and 2 run plasticattractor_centralscript.py which calls the functions plasticattractor_networksims, plasticattractor_behaviour, plasticattractor_behaviouralanalysis, and plasticattractor_decoding.
+To reproduce the results reported in:
 
-To reproduce the results reported in simulations 3 run plasticattractor_errors.py
+- Simulations 1 and 2 run plasticattractor_centralscript.py which calls the functions plasticattractor_networksims, plasticattractor_behaviour, plasticattractor_behaviouralanalysis, and plasticattractor_decoding.
 
-To reproduce the simulation reported in appendix 1 run plasticattractor_biasedcompetition.py 
+- Simulations 3 run plasticattractor_errors.py
 
-To reproduce the simulation reported in appendix 2 run plasticattractor_workingmemory.py 
+- Appendix 1 run plasticattractor_biasedcompetition.py 
+
+- Appendix 2 run plasticattractor_workingmemory.py 
 
 
 
