@@ -18,7 +18,7 @@ from plasticattractor_decoding import plasticattractor_decode
 
 # run decoding analysis (set to 1 to run decoding - be warned it will take some
 # time to run)
-decoding = 0
+decoding = 1
 
 # number of blocks
 num_blocks = 50
